@@ -39,3 +39,21 @@ Nowadays,Sports is also a part of study and career.Through this person can maint
 > "Life is like riding a bicycle.To keep your balance,you must keep moving." *-Albert Einstein*
 
 > "An equation means nothing to me unless it expresses a thought of god." *-Srinivasa Ramanujan*
+
+---
+
+### Code Fencing
+> Relavent question on stack overflow : "How do you post data to an iframe?"  The following is a link to the article on stack overflow <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
+~~~
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+~~~
+The snippet source from css-tricks for using code fencing above : <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
