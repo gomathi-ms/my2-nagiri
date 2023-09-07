@@ -19,3 +19,16 @@ My favourite place is my **home** because where my parents and my **siblings** a
     * Chicken 65
 
 A link to the MyStats click on [MyStats](MyStats.md) to check data in MyStats.
+
+---
+
+### Table For The Sports
+Nowadays,Sports is also a part of study and career.Through this person can maintain sustaiable life by exercising body and mental peace.Here we are going to create a table with at least 4 kinds of sports.
+
+| Name of a sport | Reason for Recommend | Hours/per Week |
+| ---     | --- | ---: |
+| Cricket | It develops stamina , fitness of the body. | 4 - 6 |
+| Kabaddi |It helps in stretching , jumps , contraction muscles.  | 2 - 3 |
+| Running | It burns calories, build confidence,boost memory,Refreshment. | 1 - 2 |
+| Chess | Prepare you for Competition,build strategic thinking | 3 - 4 |
+
