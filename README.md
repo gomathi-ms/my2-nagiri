@@ -32,3 +32,10 @@ Nowadays,Sports is also a part of study and career.Through this person can maint
 | Running | It burns calories, build confidence,boost memory,Refreshment. | 1 - 2 |
 | Chess | Prepare you for Competition,build strategic thinking | 3 - 4 |
 
+---
+
+
+### Pithy Quotes
+> "Life is like riding a bicycle.To keep your balance,you must keep moving." *-Albert Einstein*
+
+> "An equation means nothing to me unless it expresses a thought of god." *-Srinivasa Ramanujan*
